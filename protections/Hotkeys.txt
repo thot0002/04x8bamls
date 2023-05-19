@@ -1,0 +1,8 @@
+Tree Compatibility Version: 43
+Stand
+	Settings
+		Input
+			Keyboard Input Scheme
+				Open/Close Menu: Ctrl+Shift+Alt+[
+				Context Menu: O
+				Command Box: Ctrl+Shift+Alt+End

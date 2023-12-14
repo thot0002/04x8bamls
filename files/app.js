@@ -6,20 +6,20 @@ var app = new Vue({
         tiktok: "",
         FAQ: [
             [
-                "Can I sell or give away my account?",
-                "Giving away, sharing or giving your account is strictly forbidden. This will most likely result in a license ban.",
+                "Is Entropy Undetected?",
+                "Entropy is fully undetected for Grand Theft Auto Online.",
             ],
             [
                 "Partnerships or Reselling",
                 "Thank you for your interest in our products. If you want to apply as partner /or and reseller, please contact us on discord. You'll be granted an answer within the fatest delays possible.",
             ],
             [
-                "What operating systems do dxrky.xyz cheats support?",
+                "What operating systems does Entropy support?",
                 "Our cheats are built and tested for Windows 10 & 11 64 bit system.",
             ],
             [
                 "Can I use ShadowPC or another Virtual Machine?",
-                "Totally! We know how useful shadow pcs or other providers are for low budget people, or as ban bypass. This is why we decided to support VMS for every dxrky.xyz products!",
+                "Totally! We know how useful shadow pcs or other providers are for low budget people, or as ban bypass. This is why we decided to support VMS for every Entropy products!",
             ],
         ],
         featuresList: [
